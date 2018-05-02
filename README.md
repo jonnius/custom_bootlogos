@@ -1,4 +1,4 @@
-# custom_bootlogos_ubports
+# Custom_Bootlogos_ubports
 Changed Boot_logos For Ubuntu Touch Ubports
 
 #Nexus 5
