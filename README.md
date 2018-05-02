@@ -4,8 +4,8 @@ Changed Boot_logos For Ubuntu Touch Ubports
 
 Nexus 5
 =======
-fastboot flash imgdata imgdata.img
 ![Nexus 5](https://github.com/rubencarneiro/devices_images/blob/master/splashNexus5.jpeg "Nexus 5")
+fastboot flash imgdata imgdata.img
 
 Fairphone 2
 ===========
