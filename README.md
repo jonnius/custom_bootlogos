@@ -33,5 +33,4 @@ BQ E4.5
 
 - Use Spflash tool
 - Call MT6582_Android_scatter.txt and flash only logo.
-<p align="center">
-![BQ E4.5 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/spplashbqe45.png "BQ E4.5 Ubuntu Edition")
+<p align="center">![BQ E4.5 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/spplashbqe45.png </p> "BQ E4.5 Ubuntu Edition")
