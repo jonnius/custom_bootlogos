@@ -1,6 +1,6 @@
-Custom Bootlogos ubports
+Custom Bootlogos
 ==========================
-- Changed Boot_logos For Ubuntu Touch devices
+- Modified Bootlogos For Ubuntu Touch devices
 
 - Disclaimer
   ==========
