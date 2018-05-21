@@ -5,8 +5,8 @@ Custom Bootlogos ubports
 - Disclaimer
   ==========
 
-  - Please note im not responsible for any device break/brick, this bootlogos are modifications use at your own risk.
-    =================================================================================================================
+  - Please note, I am not responsible for any device break/brick, this bootlogos are modifications use at your own risk.
+    ====================================================================================================================
 
 - If you like my work please feel free to donate me at:
   =====================================================
