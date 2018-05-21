@@ -6,6 +6,7 @@ Nexus 5
 =======
 **How to flash**:
 
+- Reboot device to fastboot
 - `fastboot flash imgdata imgdata.img`
 
 ![Nexus 5](https://github.com/rubencarneiro/devices_images/blob/master/splashNexus5.jpg "Nexus 5")
@@ -14,6 +15,8 @@ Fairphone 2
 ===========
 **How to flash**:
 
+- reboot device to fastboot
+- In a terminal and do:
 - `fastboot flash splash splash.img`
 
 ![Fairphone 2](https://github.com/rubencarneiro/devices_images/blob/master/splashFairphone2.png "Fairphone 2")
@@ -40,6 +43,6 @@ OnePlus One
 **How to flash**
 
 - Reboot device to fastboot
-- in a terminal do:
-- fastboot flash logo logo.bin
+- In a terminal do:
+- `fastboot flash logo logo.bin`
 ![OnePlus One](https://github.com/rubencarneiro/devices_images/blob/master/splashoneplusone.png "OnePlus One")
