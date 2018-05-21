@@ -26,7 +26,7 @@ Fairphone 2
 ===========
 **How to flash**:
 
-- reboot device to fastboot
+- Reboot device to fastboot
 - In a terminal and do:
 - `fastboot flash splash splash.img`
 
@@ -36,8 +36,9 @@ Meizu MX4
 =========
 **How to flash**:
 
-- Use Spflash tool
-- Call MT6595_Android_scatter.txt and flash only logo.
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
 
 ![MEIZU MX4 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/splashMX4.png "MEIZU MX4 Ubuntu Edition")
 
@@ -45,8 +46,10 @@ BQ E4.5
 =========
 **How to flash**
 
-- Use Spflash tool
-- Call MT6582_Android_scatter.txt and flash only logo.
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
 ![BQ E4.5 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/spplashbqe45.png "BQ E4.5 Ubuntu Edition")
 
 OnePlus One
@@ -56,4 +59,5 @@ OnePlus One
 - Reboot device to fastboot
 - In a terminal do:
 - `fastboot flash LOGO logo.bin`
+
 ![OnePlus One](https://github.com/rubencarneiro/devices_images/blob/master/splashoneplusone.png "OnePlus One")
