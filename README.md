@@ -44,5 +44,5 @@ OnePlus One
 
 - Reboot device to fastboot
 - In a terminal do:
-- `fastboot flash logo logo.bin`
+- `fastboot flash LOGO logo.bin`
 ![OnePlus One](https://github.com/rubencarneiro/devices_images/blob/master/splashoneplusone.png "OnePlus One")
