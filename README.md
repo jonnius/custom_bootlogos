@@ -52,6 +52,36 @@ BQ E4.5
 
 ![BQ E4.5 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/spplashbqe45.png "BQ E4.5 Ubuntu Edition")
 
+BQ E5
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
+![BQ E5 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/spplashbqe5.png "BQ E5 Ubuntu Edition")
+
+BQ M10HD
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
+![BQ M10HD Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/spplashbqm10hd.png "BQ M10HD Ubuntu Edition")
+
+BQ M10FHD
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
+![BQ M10FHD Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/spplashbqm10fhd.png "BQ M10FHD Ubuntu Edition")
+
 OnePlus One
 =========
 **How to flash**
