@@ -20,7 +20,7 @@ Nexus 5
 - Reboot device to fastboot
 - `fastboot flash imgdata imgdata.img`
 
-![Nexus 5](https://github.com/rubencarneiro/devices_images/blob/master/splashNexus5.jpg "Nexus 5")
+<img src="https://github.com/rubencarneiro/devices_images/blob/master/splashNexus5.jpg" alt="Nexus 5" height="400">
 
 Fairphone 2
 ===========
@@ -30,7 +30,7 @@ Fairphone 2
 - In a terminal and do:
 - `fastboot flash splash splash.img`
 
-![Fairphone 2](https://github.com/rubencarneiro/devices_images/blob/master/splashFairphone2.png "Fairphone 2")
+<img src="https://github.com/rubencarneiro/devices_images/blob/master/splashFairphone2.png" alt="Fairphone 2" height="400">
 
 Meizu MX4
 =========
@@ -40,7 +40,7 @@ Meizu MX4
 - In a terminal and do:
 - `fastboot flash logo logo.bin`
 
-![MEIZU MX4 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/splashMX4.png "MEIZU MX4 Ubuntu Edition")
+<img src="https://github.com/rubencarneiro/devices_images/blob/master/splashMX4.png" alt="MEIZU MX4 Ubuntu Edition" height="400">
 
 BQ E4.5
 =========
@@ -50,7 +50,7 @@ BQ E4.5
 - In a terminal and do:
 - `fastboot flash logo logo.bin`
 
-![BQ E4.5 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/spplashbqe45.png "BQ E4.5 Ubuntu Edition")
+<img src="https://github.com/rubencarneiro/devices_images/blob/master/spplashbqe45.png" alt="BQ E4.5 Ubuntu Edition" height="400">
 
 BQ E5
 =========
@@ -60,7 +60,7 @@ BQ E5
 - In a terminal and do:
 - `fastboot flash logo logo.bin`
 
-![BQ E5 Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/splashbqe5.png "BQ E5 Ubuntu Edition")
+<img src="https://github.com/rubencarneiro/devices_images/blob/master/splashbqe5.png" alt="BQ E5 Ubuntu Edition" height="400">
 
 BQ M10HD
 =========
@@ -70,7 +70,7 @@ BQ M10HD
 - In a terminal and do:
 - `fastboot flash logo logo.bin`
 
-![BQ M10HD Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/splashbqm10hd.png "BQ M10HD Ubuntu Edition")
+<img src="https://github.com/rubencarneiro/devices_images/blob/master/splashbqm10hd.png" alt="BQ M10HD Ubuntu Edition" height="400">
 
 BQ M10FHD
 =========
@@ -80,7 +80,7 @@ BQ M10FHD
 - In a terminal and do:
 - `fastboot flash logo logo.bin`
 
-![BQ M10FHD Ubuntu Edition](https://github.com/rubencarneiro/devices_images/blob/master/splashbqm10fhd.png "BQ M10FHD Ubuntu Edition")
+<img src="https://github.com/rubencarneiro/devices_images/blob/master/splashbqm10fhd.png" alt="BQ M10FHD Ubuntu Edition" height="400">
 
 OnePlus One
 =========
@@ -90,4 +90,4 @@ OnePlus One
 - In a terminal do:
 - `fastboot flash LOGO logo.bin`
 
-![OnePlus One](https://github.com/rubencarneiro/devices_images/blob/master/splashoneplusone.png "OnePlus One")
+<img src="https://github.com/rubencarneiro/devices_images/blob/master/splashoneplusone.png" alt="OnePlus One" height="400">
